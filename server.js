@@ -161,7 +161,7 @@ app.get('/agb', (req, res) => {
 	if(kunde.IstEingeloggt){
 
 		// Wenn die Zugangsdaten korrekt sind, dann wird die angesurfte Seite gerendert.
-		res.render('login.ejs',{});
+		res.render('agb.ejs',{});
 
 	}else{
 		

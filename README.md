@@ -10,6 +10,19 @@ Am Ende müssen Sie Ihr Projekt commiten und pushen. Senden Sie mir den Link in 
 ## Aufgabe 2
 
 Beantworten Sie die folgenden Frage hier direkt im Text: Welche Aufgabe haben cookies in unserer Banking-App?
+    // Cookies sind kleine Textdateien, die beim Besuch von Webseiten auf dem lokalen Rechner
+    // von Nutzern gespeichert werden. Beim erneuten Seitenbesuch können sie direkt an den Server 
+    // gesendet werden. 
+    // Cookies können notwendig sein oder z.B. der Werbung dienen.
+    // Wenn sich der Kunde an der App anmeldet, wird ein Cookie in seinem Browser gespeichert.
+    // Der Cookie enthält seine Kundendaten.
+    // Immer, wenn der Kunde nach der Anmeldung in der App einen Button drückt, werden
+    // seine Kundendaten vom Browser an den Server übergeben. Der Server weiß dadurch, 
+    // mit welchem Kunden er es zu tun hat. So ermöglichen wir, dass mehrere Kunden gleichzeitig
+    // mit dem Server interagieren können.
+    
+Warum sind Passkeys besser als die kombination aus Benutzername & Kennwort?
+    //Passkeys ist eine geheime verschlüsselung die nur möglich mit dem Diebstahl des Smartphones, in dessen alle Keys gespeichert sind, zu knacken ist.
 
 ## Aufgabe 3
 
